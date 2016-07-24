@@ -1,0 +1,63 @@
+.wrapper{
+width:294px;
+height:339px;
+background:url(../images/bg01.png);
+margin:50px auto;
+padding-left:50px;
+padding-top:50px;
+
+}
+.box{
+
+background:#ffffff;
+width:245px;
+height:290px;
+
+}
+
+.box div{
+border-bottom:1px solid #c8c8c8;
+height:46px;
+
+
+}
+
+.box .m1{
+
+height:49px;
+background:url(../images/bg02.png) no-repeat 21px 17px;
+
+
+}
+.box .m2{
+
+
+background:url(../images/bg02.png) no-repeat 21px -32px;
+
+
+}
+.box .m4{
+
+
+background:url(../images/bg02.png) no-repeat 21px -126px;
+
+
+}
+
+.box .m5{
+
+
+background:url(../images/bg02.png) no-repeat 21px -173px;
+
+
+}
+.box .m6{
+height:51px;
+border-bottom:none;
+background:url(../images/bg02.png) no-repeat 21px -220px;
+}
+.box .m3{
+border-left:2px solid #cc6932;
+background:url(../images/bg02.png) no-repeat 21px -79px;
+
+}

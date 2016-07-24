@@ -1,0 +1,81 @@
+.wrapper{
+
+width:300px;
+background:#ffffff;
+border-left:1px solid #cfcfcf;
+border-right:2px solid #cfcfcf;
+border-bottom:2px solid #cfcfcf;
+margin:50px auto;
+}
+ .m1{
+background:#f4f4f4 ;
+font:bold normal 12px/28px  "宋体";
+
+border-top:2px solid #206f96;
+
+border-bottom:2px solid #cfcfcf;
+text-indent:10px;
+}
+ .wrapper .m2{
+padding-top:5px;
+font:normal normal 12px/52px "宋体";
+background:16px 25px url(../images/bg03.png);
+
+padding-left:50px;
+
+
+}
+.m2 a{
+text-decoration:none;
+color:black;/* 字体的样式是给超链接设置的 不是给div*/
+margin-right:10px;
+
+
+}
+.m3{
+padding-left:50px;
+background:#f7f7f7;
+padding-top:13px;
+padding-bottom:14px;
+
+}
+.m3 a{
+
+font:normal normal 12px/24px "宋体";
+margin-right:9px;
+text-decoration:none;
+color:black;
+
+}
+
+
+.m4{
+
+padding-left:50px;
+
+}
+.m4 a{
+font:normal normal 12px/24px "宋体";
+text-decoration:none;
+color:black;
+padding-top:12px;
+padding-bottom:13px;
+margin-right:10px;
+
+
+}
+
+.m5{
+padding-left:50px;
+background:#f7f7f7;
+}
+.m5  a{
+
+text-decoration:none;
+color:black;
+margin-right:10px;
+font:normal normal 12px/24px "宋体";
+padding-top:13px;
+padding-bottom:14px;
+
+}
