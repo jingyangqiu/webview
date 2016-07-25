@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312"/>
+<title>浮动练习</title>
+<link rel="stylesheet" type="text/css" href="init.css">
+<style type="text/css">
+.wrapper{
+border:10px solid #cccccc;
+width:500px;
+margin:50px auto;
+}
+.box1{
+ background:#77aa11 ;
+width:200px;
+height:397px;
+float:left;
+}
+
+
+.box2{
+width:300px;
+float:left;
+}
+
+.m1{
+height:78px;
+background:#ff9900;
+}
+.m2{
+width:150px;
+height:160px;
+background:#ff6699;
+float:left;
+
+}
+.m3{
+width:150px;
+height:160px;
+background:#44ffcc;
+float:left;
+}
+.clear:after{
+content:'';
+display:block;
+clear:both;
+
+}
+.abc:after{
+content:'';
+display:block;
+clear:both;
+
+}
+
+.m4{
+width:300px;
+height:160px;
+background:#336699;
+float:left;
+}
+
+
+</style>
+</head>
+<body>
+<div class="wrapper abc">
+  <div class="box1"> </div>
+
+  <div class="box2 clear"> 
+    <div class="m1"></div>
+    <div class="m2"></div>
+    <div class="m3"></div>
+    <div class="m4"></div>
+  </div>
+
+
+</div>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+.wrapper{
+
+width:300px;
+background:#ffffff;
+border-left:1px solid #cfcfcf;
+border-right:2px solid #cfcfcf;
+border-bottom:2px solid #cfcfcf;
+margin:50px auto;
+}
+.m1{
+background:#f4f4f4 ;
+font:bold normal 12px/28px  "宋体";
+
+border-top:2px solid #206f96;
+
+border-bottom:2px solid #cfcfcf;
+text-indent:10px;
+}
+
+ .wrapper .m2{
+padding-top:5px;
+font:normal normal 12px/52px "宋体";
+background:9px 25px url(../images/bg04.png) no-repeat;
+
+padding-left:50px;
+
+
+}
+
+.m2 a{
+text-decoration:none;
+color:black;/* 字体的样式是给超链接设置的 不是给div*/
+margin-right:10px;
+display:block;
+float:left;
+
+
+}
